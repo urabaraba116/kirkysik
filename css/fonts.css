@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "GTEestiProDisplay";
+  src: url("GTEestiProDisplay-Light.eot");
+  src: local("GTEestiProDisplayLight"), local("GTEestiProDisplay-Light"),
+    url("GTEestiProDisplay-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GTEestiProDisplay";
+  src: url("GTEestiProDisplay-LightItalic.eot");
+  src: local("GTEestiProDisplayLightItalic"),
+    local("GTEestiProDisplay-LightItalic"),
+    url("GTEestiProDisplay-LightItalic.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GTEestiProDisplay";
+  src: url("GTEestiProDisplay-Regular.eot");
+  src: local("GTEestiProDisplayRegular"), local("GTEestiProDisplay-Regular"),
+    url("GTEestiProDisplay-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GTEestiProDisplay";
+  src: url("GTEestiProDisplay-RegularItalic.eot");
+  src: local("GEestPrDisplaRegulaItalic"),
+    local("GTEestiProDisplay-RegularItalic"),
+    url("GTEestiProDisplay-RegularItalic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GTEestiProDisplay";
+  src: url("GTEestiProDisplay-Medium.eot");
+  src: local("GTEestiProDisplayMedium"), local("GTEestiProDisplay-Medium"),
+    url("GTEestiProDisplay-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GTEestiProDisplay";
+  src: url("GTEestiProDisplay-MediumItalic.eot");
+  src: local("GEestPrDisplaMediuItalic"),
+    local("GTEestiProDisplay-MediumItalic"),
+    url("GTEestiProDisplay-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
